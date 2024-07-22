@@ -1,5 +1,5 @@
 {
-  "name": "X-BOT-MD",
+  "name": "Land master",
   "version": "3.2.0",
   "description": "WhatsApp Helper Bot",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "bot",
     "whatsapp"
   ],
-  "author": "ASWIN SPARKY",
+  "author": "windy",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
